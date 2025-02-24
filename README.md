@@ -16,12 +16,10 @@ git clone https://github.com/chris1111/Download-OCLP.git
 
 2- Run `Create_Download_OCLP.command`
 
-![Screenshot-1](https://github.com/user-attachments/assets/35f7f3c6-7fe4-4738-849c-83371a784c37)
-
-Open Your Download OCLP.app
-
-![Screenshot-2](https://github.com/user-attachments/assets/28b3dab8-a424-40b3-a735-a582b5fdec81)
-
-![Screenshot-3](https://github.com/user-attachments/assets/c275ec25-bfc3-4bb5-9137-a33339c2b7e6)
-
-![Screenshot-4](https://github.com/user-attachments/assets/37ca3657-01da-4fab-9ff8-2ef1daf4cc02)
+<div align="center">
+<img src="Pics/Screenshot-1.png" alt="Build command" style="width:70%;">
+<p>Open Your Download OCLP.app</p>
+<img src="Pics/Screenshot-2.png" alt="Use App" style="width:70%;">
+<img src="Pics/Screenshot-3.png" alt="Download" style="width:70%;">
+<img src="Pics/Screenshot-4.png" alt="Completed" style="width:70%;">
+</div>
